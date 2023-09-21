@@ -3,7 +3,6 @@
 <p align="center">
 Aqui mostro meus resultados da aula. <br/>
 
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,10 +20,7 @@ Aqui mostro meus resultados da aula. <br/>
   <img alt="preview do projeto" src=".github/preview.png">
 </p>
 
-
-
 <br>
-
 
 ## 🚀 Tecnologias
 
@@ -34,8 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
-
 
 ## Licença
 
